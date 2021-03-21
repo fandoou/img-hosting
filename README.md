@@ -9,10 +9,10 @@
    ```
    root
     |-- front-end
-    		|-- vue
-    				|-- vue.js
-    				|-- vue-router
-    				|-- vuex
+    	|-- vue
+    		|-- vue.js
+    		|-- vue-router
+    		|-- vuex
    ```
 
 2. **引用图片**
