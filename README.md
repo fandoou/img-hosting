@@ -6,14 +6,18 @@
 
    创建一个 `git` 仓库用于存储图片。目录结构如下：
 
+   ```shell
+   ├─common
+   ├─draw.io
+   ├─front-end
+   │  └─vue.js
+   │      ├─vue
+   │      ├─vue-router
+   │      └─vuex
+   └─wallpaper
    ```
-   root
-    |-- front-end
-    	|-- vue
-    		|-- vue.js
-    		|-- vue-router
-    		|-- vuex
-   ```
+
+   - 生成目录结构：打开命令行工具，进入根目录输入 `tree` 命令即可。
 
 2. **引用图片**
 
